@@ -1,2 +1,2 @@
 # Azure-PaaS
-Azure Batch POC
+Azure Batch POC deployment pipeline
